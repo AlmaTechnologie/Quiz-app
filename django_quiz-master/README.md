@@ -4,13 +4,6 @@ Django quiz app
 
 This is a configurable quiz app for Django.
 
-I use it to run a few medical revision websites. Here is an [example website](http://www.revisemrcp.com/)
-
-My websites have used twitter bootstrap for the front end and I have tried to strip out anything from
-the template files that are dependant on bootstrap.
-
-![Questions](http://i.imgur.com/VRYx3OV.png "Question picture hosted by Imgur")
-
 
 Current features
 ----------------
